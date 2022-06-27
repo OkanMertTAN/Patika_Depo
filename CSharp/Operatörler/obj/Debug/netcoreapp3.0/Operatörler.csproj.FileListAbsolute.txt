@@ -1,0 +1,11 @@
+C:\Users\okanm\Depo\Proje\Operatörler\bin\Debug\netcoreapp3.0\Operatörler.exe
+C:\Users\okanm\Depo\Proje\Operatörler\bin\Debug\netcoreapp3.0\Operatörler.deps.json
+C:\Users\okanm\Depo\Proje\Operatörler\bin\Debug\netcoreapp3.0\Operatörler.runtimeconfig.json
+C:\Users\okanm\Depo\Proje\Operatörler\bin\Debug\netcoreapp3.0\Operatörler.runtimeconfig.dev.json
+C:\Users\okanm\Depo\Proje\Operatörler\bin\Debug\netcoreapp3.0\Operatörler.dll
+C:\Users\okanm\Depo\Proje\Operatörler\bin\Debug\netcoreapp3.0\Operatörler.pdb
+C:\Users\okanm\Depo\Proje\Operatörler\obj\Debug\netcoreapp3.0\Operatörler.csprojAssemblyReference.cache
+C:\Users\okanm\Depo\Proje\Operatörler\obj\Debug\netcoreapp3.0\Operatörler.AssemblyInfoInputs.cache
+C:\Users\okanm\Depo\Proje\Operatörler\obj\Debug\netcoreapp3.0\Operatörler.AssemblyInfo.cs
+C:\Users\okanm\Depo\Proje\Operatörler\obj\Debug\netcoreapp3.0\Operatörler.dll
+C:\Users\okanm\Depo\Proje\Operatörler\obj\Debug\netcoreapp3.0\Operatörler.pdb

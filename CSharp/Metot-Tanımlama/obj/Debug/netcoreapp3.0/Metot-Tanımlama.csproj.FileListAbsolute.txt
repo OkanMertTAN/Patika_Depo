@@ -1,0 +1,11 @@
+C:\Users\okanm\Depo\Proje\Metot-Tanımlama\bin\Debug\netcoreapp3.0\Metot-Tanımlama.exe
+C:\Users\okanm\Depo\Proje\Metot-Tanımlama\bin\Debug\netcoreapp3.0\Metot-Tanımlama.deps.json
+C:\Users\okanm\Depo\Proje\Metot-Tanımlama\bin\Debug\netcoreapp3.0\Metot-Tanımlama.runtimeconfig.json
+C:\Users\okanm\Depo\Proje\Metot-Tanımlama\bin\Debug\netcoreapp3.0\Metot-Tanımlama.runtimeconfig.dev.json
+C:\Users\okanm\Depo\Proje\Metot-Tanımlama\bin\Debug\netcoreapp3.0\Metot-Tanımlama.dll
+C:\Users\okanm\Depo\Proje\Metot-Tanımlama\bin\Debug\netcoreapp3.0\Metot-Tanımlama.pdb
+C:\Users\okanm\Depo\Proje\Metot-Tanımlama\obj\Debug\netcoreapp3.0\Metot-Tanımlama.csprojAssemblyReference.cache
+C:\Users\okanm\Depo\Proje\Metot-Tanımlama\obj\Debug\netcoreapp3.0\Metot-Tanımlama.AssemblyInfoInputs.cache
+C:\Users\okanm\Depo\Proje\Metot-Tanımlama\obj\Debug\netcoreapp3.0\Metot-Tanımlama.AssemblyInfo.cs
+C:\Users\okanm\Depo\Proje\Metot-Tanımlama\obj\Debug\netcoreapp3.0\Metot-Tanımlama.dll
+C:\Users\okanm\Depo\Proje\Metot-Tanımlama\obj\Debug\netcoreapp3.0\Metot-Tanımlama.pdb

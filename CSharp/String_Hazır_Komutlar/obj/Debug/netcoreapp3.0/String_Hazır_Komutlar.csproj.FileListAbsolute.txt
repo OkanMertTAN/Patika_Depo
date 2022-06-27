@@ -1,0 +1,11 @@
+C:\Users\okanm\Depo\Proje\String_Hazır_Komutlar\bin\Debug\netcoreapp3.0\String_Hazır_Komutlar.exe
+C:\Users\okanm\Depo\Proje\String_Hazır_Komutlar\bin\Debug\netcoreapp3.0\String_Hazır_Komutlar.deps.json
+C:\Users\okanm\Depo\Proje\String_Hazır_Komutlar\bin\Debug\netcoreapp3.0\String_Hazır_Komutlar.runtimeconfig.json
+C:\Users\okanm\Depo\Proje\String_Hazır_Komutlar\bin\Debug\netcoreapp3.0\String_Hazır_Komutlar.runtimeconfig.dev.json
+C:\Users\okanm\Depo\Proje\String_Hazır_Komutlar\bin\Debug\netcoreapp3.0\String_Hazır_Komutlar.dll
+C:\Users\okanm\Depo\Proje\String_Hazır_Komutlar\bin\Debug\netcoreapp3.0\String_Hazır_Komutlar.pdb
+C:\Users\okanm\Depo\Proje\String_Hazır_Komutlar\obj\Debug\netcoreapp3.0\String_Hazır_Komutlar.csprojAssemblyReference.cache
+C:\Users\okanm\Depo\Proje\String_Hazır_Komutlar\obj\Debug\netcoreapp3.0\String_Hazır_Komutlar.AssemblyInfoInputs.cache
+C:\Users\okanm\Depo\Proje\String_Hazır_Komutlar\obj\Debug\netcoreapp3.0\String_Hazır_Komutlar.AssemblyInfo.cs
+C:\Users\okanm\Depo\Proje\String_Hazır_Komutlar\obj\Debug\netcoreapp3.0\String_Hazır_Komutlar.dll
+C:\Users\okanm\Depo\Proje\String_Hazır_Komutlar\obj\Debug\netcoreapp3.0\String_Hazır_Komutlar.pdb

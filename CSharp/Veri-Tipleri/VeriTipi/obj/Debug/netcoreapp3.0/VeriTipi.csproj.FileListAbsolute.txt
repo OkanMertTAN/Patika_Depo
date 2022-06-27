@@ -1,0 +1,11 @@
+C:\Users\okanm\Depo\Proje\Veri-Tipleri\VeriTipi\bin\Debug\netcoreapp3.0\VeriTipi.exe
+C:\Users\okanm\Depo\Proje\Veri-Tipleri\VeriTipi\bin\Debug\netcoreapp3.0\VeriTipi.deps.json
+C:\Users\okanm\Depo\Proje\Veri-Tipleri\VeriTipi\bin\Debug\netcoreapp3.0\VeriTipi.runtimeconfig.json
+C:\Users\okanm\Depo\Proje\Veri-Tipleri\VeriTipi\bin\Debug\netcoreapp3.0\VeriTipi.runtimeconfig.dev.json
+C:\Users\okanm\Depo\Proje\Veri-Tipleri\VeriTipi\bin\Debug\netcoreapp3.0\VeriTipi.dll
+C:\Users\okanm\Depo\Proje\Veri-Tipleri\VeriTipi\bin\Debug\netcoreapp3.0\VeriTipi.pdb
+C:\Users\okanm\Depo\Proje\Veri-Tipleri\VeriTipi\obj\Debug\netcoreapp3.0\VeriTipi.csprojAssemblyReference.cache
+C:\Users\okanm\Depo\Proje\Veri-Tipleri\VeriTipi\obj\Debug\netcoreapp3.0\VeriTipi.AssemblyInfoInputs.cache
+C:\Users\okanm\Depo\Proje\Veri-Tipleri\VeriTipi\obj\Debug\netcoreapp3.0\VeriTipi.AssemblyInfo.cs
+C:\Users\okanm\Depo\Proje\Veri-Tipleri\VeriTipi\obj\Debug\netcoreapp3.0\VeriTipi.dll
+C:\Users\okanm\Depo\Proje\Veri-Tipleri\VeriTipi\obj\Debug\netcoreapp3.0\VeriTipi.pdb

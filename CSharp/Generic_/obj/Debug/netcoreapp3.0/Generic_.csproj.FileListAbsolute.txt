@@ -1,0 +1,11 @@
+C:\Users\okanm\Depo\Proje\Generic_\bin\Debug\netcoreapp3.0\Generic_.exe
+C:\Users\okanm\Depo\Proje\Generic_\bin\Debug\netcoreapp3.0\Generic_.deps.json
+C:\Users\okanm\Depo\Proje\Generic_\bin\Debug\netcoreapp3.0\Generic_.runtimeconfig.json
+C:\Users\okanm\Depo\Proje\Generic_\bin\Debug\netcoreapp3.0\Generic_.runtimeconfig.dev.json
+C:\Users\okanm\Depo\Proje\Generic_\bin\Debug\netcoreapp3.0\Generic_.dll
+C:\Users\okanm\Depo\Proje\Generic_\bin\Debug\netcoreapp3.0\Generic_.pdb
+C:\Users\okanm\Depo\Proje\Generic_\obj\Debug\netcoreapp3.0\Generic_.csprojAssemblyReference.cache
+C:\Users\okanm\Depo\Proje\Generic_\obj\Debug\netcoreapp3.0\Generic_.AssemblyInfoInputs.cache
+C:\Users\okanm\Depo\Proje\Generic_\obj\Debug\netcoreapp3.0\Generic_.AssemblyInfo.cs
+C:\Users\okanm\Depo\Proje\Generic_\obj\Debug\netcoreapp3.0\Generic_.dll
+C:\Users\okanm\Depo\Proje\Generic_\obj\Debug\netcoreapp3.0\Generic_.pdb

@@ -1,0 +1,11 @@
+C:\Users\okanm\Depo\Proje\Koleksiyonlar\bin\Debug\netcoreapp3.0\Koleksiyonlar.exe
+C:\Users\okanm\Depo\Proje\Koleksiyonlar\bin\Debug\netcoreapp3.0\Koleksiyonlar.deps.json
+C:\Users\okanm\Depo\Proje\Koleksiyonlar\bin\Debug\netcoreapp3.0\Koleksiyonlar.runtimeconfig.json
+C:\Users\okanm\Depo\Proje\Koleksiyonlar\bin\Debug\netcoreapp3.0\Koleksiyonlar.runtimeconfig.dev.json
+C:\Users\okanm\Depo\Proje\Koleksiyonlar\bin\Debug\netcoreapp3.0\Koleksiyonlar.dll
+C:\Users\okanm\Depo\Proje\Koleksiyonlar\bin\Debug\netcoreapp3.0\Koleksiyonlar.pdb
+C:\Users\okanm\Depo\Proje\Koleksiyonlar\obj\Debug\netcoreapp3.0\Koleksiyonlar.csprojAssemblyReference.cache
+C:\Users\okanm\Depo\Proje\Koleksiyonlar\obj\Debug\netcoreapp3.0\Koleksiyonlar.AssemblyInfoInputs.cache
+C:\Users\okanm\Depo\Proje\Koleksiyonlar\obj\Debug\netcoreapp3.0\Koleksiyonlar.AssemblyInfo.cs
+C:\Users\okanm\Depo\Proje\Koleksiyonlar\obj\Debug\netcoreapp3.0\Koleksiyonlar.dll
+C:\Users\okanm\Depo\Proje\Koleksiyonlar\obj\Debug\netcoreapp3.0\Koleksiyonlar.pdb

@@ -1,0 +1,11 @@
+C:\Users\okanm\Depo\proje\Basit_Algoritmalar\olay.4\bin\Debug\netcoreapp3.0\Olay.4.exe
+C:\Users\okanm\Depo\proje\Basit_Algoritmalar\olay.4\bin\Debug\netcoreapp3.0\Olay.4.deps.json
+C:\Users\okanm\Depo\proje\Basit_Algoritmalar\olay.4\bin\Debug\netcoreapp3.0\Olay.4.runtimeconfig.json
+C:\Users\okanm\Depo\proje\Basit_Algoritmalar\olay.4\bin\Debug\netcoreapp3.0\Olay.4.runtimeconfig.dev.json
+C:\Users\okanm\Depo\proje\Basit_Algoritmalar\olay.4\bin\Debug\netcoreapp3.0\Olay.4.dll
+C:\Users\okanm\Depo\proje\Basit_Algoritmalar\olay.4\bin\Debug\netcoreapp3.0\Olay.4.pdb
+C:\Users\okanm\Depo\proje\Basit_Algoritmalar\olay.4\obj\Debug\netcoreapp3.0\Olay.4.csprojAssemblyReference.cache
+C:\Users\okanm\Depo\proje\Basit_Algoritmalar\olay.4\obj\Debug\netcoreapp3.0\Olay.4.AssemblyInfoInputs.cache
+C:\Users\okanm\Depo\proje\Basit_Algoritmalar\olay.4\obj\Debug\netcoreapp3.0\Olay.4.AssemblyInfo.cs
+C:\Users\okanm\Depo\proje\Basit_Algoritmalar\olay.4\obj\Debug\netcoreapp3.0\Olay.4.dll
+C:\Users\okanm\Depo\proje\Basit_Algoritmalar\olay.4\obj\Debug\netcoreapp3.0\Olay.4.pdb

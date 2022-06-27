@@ -1,0 +1,11 @@
+C:\Users\okanm\Depo\Proje\Metot_Overloading\bin\Debug\netcoreapp3.0\Metot_Overloading.exe
+C:\Users\okanm\Depo\Proje\Metot_Overloading\bin\Debug\netcoreapp3.0\Metot_Overloading.deps.json
+C:\Users\okanm\Depo\Proje\Metot_Overloading\bin\Debug\netcoreapp3.0\Metot_Overloading.runtimeconfig.json
+C:\Users\okanm\Depo\Proje\Metot_Overloading\bin\Debug\netcoreapp3.0\Metot_Overloading.runtimeconfig.dev.json
+C:\Users\okanm\Depo\Proje\Metot_Overloading\bin\Debug\netcoreapp3.0\Metot_Overloading.dll
+C:\Users\okanm\Depo\Proje\Metot_Overloading\bin\Debug\netcoreapp3.0\Metot_Overloading.pdb
+C:\Users\okanm\Depo\Proje\Metot_Overloading\obj\Debug\netcoreapp3.0\Metot_Overloading.csprojAssemblyReference.cache
+C:\Users\okanm\Depo\Proje\Metot_Overloading\obj\Debug\netcoreapp3.0\Metot_Overloading.AssemblyInfoInputs.cache
+C:\Users\okanm\Depo\Proje\Metot_Overloading\obj\Debug\netcoreapp3.0\Metot_Overloading.AssemblyInfo.cs
+C:\Users\okanm\Depo\Proje\Metot_Overloading\obj\Debug\netcoreapp3.0\Metot_Overloading.dll
+C:\Users\okanm\Depo\Proje\Metot_Overloading\obj\Debug\netcoreapp3.0\Metot_Overloading.pdb

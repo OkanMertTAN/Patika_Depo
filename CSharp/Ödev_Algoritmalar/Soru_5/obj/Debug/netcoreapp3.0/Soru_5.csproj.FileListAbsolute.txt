@@ -1,0 +1,11 @@
+C:\Users\okanm\Depo\Proje\Ödev_Algoritmalar\Soru_5\bin\Debug\netcoreapp3.0\Soru_5.exe
+C:\Users\okanm\Depo\Proje\Ödev_Algoritmalar\Soru_5\bin\Debug\netcoreapp3.0\Soru_5.deps.json
+C:\Users\okanm\Depo\Proje\Ödev_Algoritmalar\Soru_5\bin\Debug\netcoreapp3.0\Soru_5.runtimeconfig.json
+C:\Users\okanm\Depo\Proje\Ödev_Algoritmalar\Soru_5\bin\Debug\netcoreapp3.0\Soru_5.runtimeconfig.dev.json
+C:\Users\okanm\Depo\Proje\Ödev_Algoritmalar\Soru_5\bin\Debug\netcoreapp3.0\Soru_5.dll
+C:\Users\okanm\Depo\Proje\Ödev_Algoritmalar\Soru_5\bin\Debug\netcoreapp3.0\Soru_5.pdb
+C:\Users\okanm\Depo\Proje\Ödev_Algoritmalar\Soru_5\obj\Debug\netcoreapp3.0\Soru_5.csprojAssemblyReference.cache
+C:\Users\okanm\Depo\Proje\Ödev_Algoritmalar\Soru_5\obj\Debug\netcoreapp3.0\Soru_5.AssemblyInfoInputs.cache
+C:\Users\okanm\Depo\Proje\Ödev_Algoritmalar\Soru_5\obj\Debug\netcoreapp3.0\Soru_5.AssemblyInfo.cs
+C:\Users\okanm\Depo\Proje\Ödev_Algoritmalar\Soru_5\obj\Debug\netcoreapp3.0\Soru_5.dll
+C:\Users\okanm\Depo\Proje\Ödev_Algoritmalar\Soru_5\obj\Debug\netcoreapp3.0\Soru_5.pdb

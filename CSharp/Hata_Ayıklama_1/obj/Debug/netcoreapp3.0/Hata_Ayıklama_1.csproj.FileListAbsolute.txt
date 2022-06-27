@@ -1,0 +1,11 @@
+C:\Users\okanm\Depo\Proje\Hata_Ayıklama_1\bin\Debug\netcoreapp3.0\Hata_Ayıklama_1.exe
+C:\Users\okanm\Depo\Proje\Hata_Ayıklama_1\bin\Debug\netcoreapp3.0\Hata_Ayıklama_1.deps.json
+C:\Users\okanm\Depo\Proje\Hata_Ayıklama_1\bin\Debug\netcoreapp3.0\Hata_Ayıklama_1.runtimeconfig.json
+C:\Users\okanm\Depo\Proje\Hata_Ayıklama_1\bin\Debug\netcoreapp3.0\Hata_Ayıklama_1.runtimeconfig.dev.json
+C:\Users\okanm\Depo\Proje\Hata_Ayıklama_1\bin\Debug\netcoreapp3.0\Hata_Ayıklama_1.dll
+C:\Users\okanm\Depo\Proje\Hata_Ayıklama_1\bin\Debug\netcoreapp3.0\Hata_Ayıklama_1.pdb
+C:\Users\okanm\Depo\Proje\Hata_Ayıklama_1\obj\Debug\netcoreapp3.0\Hata_Ayıklama_1.csprojAssemblyReference.cache
+C:\Users\okanm\Depo\Proje\Hata_Ayıklama_1\obj\Debug\netcoreapp3.0\Hata_Ayıklama_1.AssemblyInfoInputs.cache
+C:\Users\okanm\Depo\Proje\Hata_Ayıklama_1\obj\Debug\netcoreapp3.0\Hata_Ayıklama_1.AssemblyInfo.cs
+C:\Users\okanm\Depo\Proje\Hata_Ayıklama_1\obj\Debug\netcoreapp3.0\Hata_Ayıklama_1.dll
+C:\Users\okanm\Depo\Proje\Hata_Ayıklama_1\obj\Debug\netcoreapp3.0\Hata_Ayıklama_1.pdb

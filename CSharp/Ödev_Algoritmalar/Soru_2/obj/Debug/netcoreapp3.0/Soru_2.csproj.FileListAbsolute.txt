@@ -1,0 +1,11 @@
+C:\Users\okanm\Depo\Proje\Ödev_Algoritmalar\Soru_2\bin\Debug\netcoreapp3.0\Soru_2.exe
+C:\Users\okanm\Depo\Proje\Ödev_Algoritmalar\Soru_2\bin\Debug\netcoreapp3.0\Soru_2.deps.json
+C:\Users\okanm\Depo\Proje\Ödev_Algoritmalar\Soru_2\bin\Debug\netcoreapp3.0\Soru_2.runtimeconfig.json
+C:\Users\okanm\Depo\Proje\Ödev_Algoritmalar\Soru_2\bin\Debug\netcoreapp3.0\Soru_2.runtimeconfig.dev.json
+C:\Users\okanm\Depo\Proje\Ödev_Algoritmalar\Soru_2\bin\Debug\netcoreapp3.0\Soru_2.dll
+C:\Users\okanm\Depo\Proje\Ödev_Algoritmalar\Soru_2\bin\Debug\netcoreapp3.0\Soru_2.pdb
+C:\Users\okanm\Depo\Proje\Ödev_Algoritmalar\Soru_2\obj\Debug\netcoreapp3.0\Soru_2.csprojAssemblyReference.cache
+C:\Users\okanm\Depo\Proje\Ödev_Algoritmalar\Soru_2\obj\Debug\netcoreapp3.0\Soru_2.AssemblyInfoInputs.cache
+C:\Users\okanm\Depo\Proje\Ödev_Algoritmalar\Soru_2\obj\Debug\netcoreapp3.0\Soru_2.AssemblyInfo.cs
+C:\Users\okanm\Depo\Proje\Ödev_Algoritmalar\Soru_2\obj\Debug\netcoreapp3.0\Soru_2.dll
+C:\Users\okanm\Depo\Proje\Ödev_Algoritmalar\Soru_2\obj\Debug\netcoreapp3.0\Soru_2.pdb
