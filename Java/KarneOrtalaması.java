@@ -4,7 +4,7 @@ class Program
 {
     public static void main(String[] args) {
         System.out.println("Karne Ortalaması Hesaplaması");
-        
+
         Scanner input = new Scanner(System.in);
         int matematikNotu , türkçeNotu , fizikNotu , kimyaNotu , karneOrt ;
 
