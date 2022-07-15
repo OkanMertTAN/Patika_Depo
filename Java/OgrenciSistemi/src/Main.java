@@ -3,7 +3,7 @@ public class Main {
     public static void main(String[] args) {
         
         Teacher t1 = new Teacher("Okan Mert TAN", "90000000", "MAT");
-        Teacher t2 = new Teacher("Buse Güneş", "9000001", "TDE");
+        Teacher t2 = new Teacher("Buse A.", "9000001", "TDE");
 
         Course mat = new Course("Matematik", "MAT101", "MAT");
         Course tde = new Course("Türk Dili ve Edebiyati", "TDE101", "TDE");
